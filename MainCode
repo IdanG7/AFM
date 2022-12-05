@@ -1,6 +1,7 @@
-import pyautogui as pag
 import random
 import time
+
+import pyautogui as pag
 
 curr_coods = pag.position()
 afk_counter = 0
